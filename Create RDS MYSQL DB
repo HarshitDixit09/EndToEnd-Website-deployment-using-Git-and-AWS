@@ -1,0 +1,24 @@
+1 - Login to your AWS Management Console 
+Create a RDS MYSQL Database 
+
+
+2 - Login to your EC2 instance and connect your RDS database. use below command to connect 
+
+mysql -h "enter RDS endpoint" -u "username" -p { enter}
+provide password to connect
+
+3-
+#Create Datbase
+
+create database employee;
+create table employee;
+empid varchar(20),
+fname varchar(20),
+lname varchar(20),
+pri_skill varchar(20),
+location varchar(20);
+
+
+
+
+
