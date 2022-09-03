@@ -1,0 +1,5 @@
+1 - create a s3 bucket 
+
+2 - create a role for ec2 instance give administrator access 
+
+3 - assign role to EC2 instance 
